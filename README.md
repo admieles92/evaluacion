@@ -94,6 +94,13 @@ Authorization: Bearer <token>
 Incluido en `src/main/resources/schema.sql` para referencia, aunque la base se genera automáticamente con JPA.
 
 ---
+## 🧭 Diagrama de la solución
+
+Incluido en el archivo [`diagrama.png`](diagrama.png):
+
+![Diagrama](diagrama.png)
+
+---
 
 ## 📂 Estructura del proyecto
 
